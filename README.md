@@ -29,9 +29,9 @@ const z=3
 
 ## Javascript functions
 * it is a block of code which can be access by its name
- eg function xyz(){
+ eg ```function xyz(){
         console.log("Hello World");
-}
+}```
 * How To Call Function
 We Can Call function By Its Name
 eg xyz()
