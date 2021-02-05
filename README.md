@@ -1,26 +1,56 @@
 # JavaScript
 
-## An Introduction to JavaScript
+## What is JavaScript?
 
-Let’s see what’s so special about JavaScript, what we can achieve with it, and what other technologies play well with it.
+JavaScript is the programming language of the Web.
 
-### What is JavaScript?
+## How to include Javascript in Html Documents
 
-JavaScript was initially created to “make web pages alive”.
+* Using <script></script> Tag.
 
-The programs in this language are called scripts. They can be written right in a web page’s HTML and run automatically as the page loads.
+## Declare variable In JavaScript
+ 
+* Using let,var,const
+let x=1
+var y=2
+const z=3
 
-Scripts are provided and executed as plain text. They don’t need special preparation or compilation to run.
+## difference between let var and const
+* const is use declare constant variable.let is use to declare variable but we can change it latter. while there is problem in var it is accessible outside of it scope. 
 
-In this aspect, JavaScript is very different from another language called Java.
+## Datatype in JavaScript
+* number - eg 1
+* string - eg "raj"
+* Boolean - True or False
+* Null - Empty
+* Undefined - When Value Is Not Defined
+* Array - It is collection of elements of same type
+* Object - Instance of class
 
-Why is it called JavaScript?
-When JavaScript was created, it initially had another name: “LiveScript”. But Java was very popular at that time, so it was decided that positioning a new language as a “younger brother” of Java would help.
+## Javascript functions
+* it is a block of code which can be access by its name
+ eg function xyz(){
+        console.log("Hello World");
+}
+* How To Call Function
+We Can Call function By Its Name
+eg xyz()
 
-But as it evolved, JavaScript became a fully independent language with its own specification called ECMAScript, and now it has no relation to Java at all.
+## Array - It is collection of elements of same type
+* how to declare array - a[1,2,3];
+* we can access array by index. eg - a[0] it will return 1.
 
-Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called the JavaScript engine.
+## Class And Object
+* class is blueprint of Object eg car
+* Object is Instance of class(Real World Entity)
+* Syntax : class xyz{}
+           const a = new Object();
+## Operators
+* +,-,*,**,<,>,/,% 
 
-The browser has an embedded engine sometimes called a “JavaScript virtual machine”.
 
-Different engines have different “codenames”. For example:
+
+
+
+
+        
