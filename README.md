@@ -47,10 +47,35 @@ eg ```xyz()```
          const a = new Object();
  ```
 ## Operators
-* +,-,*,**,<,>,/,% 
-
+  * Addition +
+        * Subtraction -
+         Multiplication 
+        * Division /
+         Exponentiation * 
+        * Remainder %
+    ## Assignment
+        * +=
+        * -=
+         =
+       
+    ## Increment/decrement
+        * ++
+        * --
+    ## Bitwise operators
+        * AND ( & )
+        * OR ( | )
+        * XOR ( ^ )
+        * NOT ( ~ )
+    ## Equality operator
+        * == 
+        * !=
 ## JavaScript Loops
-* For,while,do while,switch
+ * for 
+    * while 
+    * do while
+    * statement 
+        * if/if else/else
+        * switch statement
 * For,switch,While Loops Are entry control Loop And Do While Loop is exit Control Loop
 
 ## Conditional Statement
