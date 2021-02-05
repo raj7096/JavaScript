@@ -36,7 +36,7 @@ const z=3
 eg ```xyz()```
 
 ## Array - It is collection of elements of same type
-* how to declare array - ```a[3] = [1,2,3,4];```
+* how to declare array - ```a[3] = [1,2,3];```
 * we can access array by index. eg - a[0] it will return 1.
 
 ## Class And Object
