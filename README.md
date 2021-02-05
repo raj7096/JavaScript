@@ -48,6 +48,13 @@ eg xyz()
 ## Operators
 * +,-,*,**,<,>,/,% 
 
+## JavaScript Loops
+* For,while,do while,switch
+* For,switch,While Loops Are entry control Loop And Do While Loop is exit Control Loop
+
+## Conditional Statement
+* if else,else if loops 
+* ? : (ternary operator)
 
 
 
