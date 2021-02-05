@@ -42,8 +42,10 @@ eg ```xyz()```
 ## Class And Object
 * class is blueprint of Object eg car
 * Object is Instance of class(Real World Entity)
-* Syntax : ```class xyz{} const a = new Object();
-           ```
+```   
+         class xyz{} 
+         const a = new Object();
+ ```
 ## Operators
 * +,-,*,**,<,>,/,% 
 
