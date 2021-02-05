@@ -76,5 +76,15 @@ this code will generate error because x is not declared before its initailzation
     let isBoss = confirm("Are you the boss?");
     alert( isBoss ); 
 ```
+## Equality operators: == and !=
+* he equal-to operator (==) returns true if both operands have the same value; otherwise, it returns false. 
+* The not-equal-to operator (!=) returns true if the operands don't have the same value; otherwise, it returns false.
 
+## Difference Between == and ===
+* == will check only value not the data type.
+* === will check value as well as Data type.
+
+## Primitive Values & Object
+* Data types that are known as primitive values in JavaScript are numbers, strings, booleans, null, undefined. Objects such as functions and arrays are referred to as non-primitive values.
+* The fundamental difference between primitives and non-primitives is that primitives are immutable and non-primitives are mutable.
         
