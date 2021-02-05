@@ -63,7 +63,7 @@ eg ```xyz()```
     x=10;
     console.log(x);
 ```
-this code will generate error because x is not declared before it initailzation.
+this code will generate error because x is not declared before its initailzation.
 
 
         
