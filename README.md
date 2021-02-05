@@ -32,19 +32,18 @@ const z=3
  eg ```function xyz(){
         console.log("Hello World");
 }```
-* How To Call Function
-We Can Call function By Its Name
-eg xyz()
+* We Can Call function By Its Name
+eg ```xyz()```
 
 ## Array - It is collection of elements of same type
-* how to declare array - a[1,2,3];
+* how to declare array - ```a[3] = [1,2,3,4];```
 * we can access array by index. eg - a[0] it will return 1.
 
 ## Class And Object
 * class is blueprint of Object eg car
 * Object is Instance of class(Real World Entity)
-* Syntax : class xyz{}
-           const a = new Object();
+* Syntax : ```class xyz{}
+           const a = new Object();```
 ## Operators
 * +,-,*,**,<,>,/,% 
 
@@ -56,8 +55,12 @@ eg xyz()
 * if else,else if loops 
 * ? : (ternary operator)
 
-
-
+## Use Of **use strict**
+* it run javascript in strict mode
+``` x=10;
+    console.log(x);
+```
+this code will generate error because x is not declared before it initailzation.
 
 
         
