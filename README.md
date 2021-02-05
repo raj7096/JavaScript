@@ -65,5 +65,16 @@ eg ```xyz()```
 ```
 this code will generate error because x is not declared before its initailzation.
 
+## alert, prompt, confirm
+* alert - It Will Display Message in PopUp
+* prompt - shows a message asking the user to input text. It returns the text or, if Cancel button or Esc is clicked, null
+* confirm - shows a message and waits for the user to press “OK” or “Cancel”. It returns true for OK and false for Cancel/Esc.
+```
+    alert("Hello");
+    result = prompt(title, [default]);
+    console.log(result)
+    let isBoss = confirm("Are you the boss?");
+    alert( isBoss ); 
+```
 
         
