@@ -42,8 +42,8 @@ eg ```xyz()```
 ## Class And Object
 * class is blueprint of Object eg car
 * Object is Instance of class(Real World Entity)
-* Syntax : ```class xyz{}
-           const a = new Object();```
+* Syntax : ```class xyz{} const a = new Object();
+           ```
 ## Operators
 * +,-,*,**,<,>,/,% 
 
@@ -57,7 +57,8 @@ eg ```xyz()```
 
 ## Use Of **use strict**
 * it run javascript in strict mode
-```x=10;
+```
+    x=10;
     console.log(x);
 ```
 this code will generate error because x is not declared before it initailzation.
