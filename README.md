@@ -57,7 +57,7 @@ eg ```xyz()```
 
 ## Use Of **use strict**
 * it run javascript in strict mode
-``` x=10;
+```x=10;
     console.log(x);
 ```
 this code will generate error because x is not declared before it initailzation.
